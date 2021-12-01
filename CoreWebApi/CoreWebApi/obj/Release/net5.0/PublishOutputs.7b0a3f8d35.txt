@@ -1,0 +1,11 @@
+D:\Oki Documents\Bootcamp\Sesi13\CoreWebApi\CoreWebApi\bin\Release\net5.0\publish\CoreWebApi.exe
+D:\Oki Documents\Bootcamp\Sesi13\CoreWebApi\CoreWebApi\bin\Release\net5.0\publish\appsettings.Development.json
+D:\Oki Documents\Bootcamp\Sesi13\CoreWebApi\CoreWebApi\bin\Release\net5.0\publish\appsettings.json
+D:\Oki Documents\Bootcamp\Sesi13\CoreWebApi\CoreWebApi\bin\Release\net5.0\publish\CoreWebApi.dll
+D:\Oki Documents\Bootcamp\Sesi13\CoreWebApi\CoreWebApi\bin\Release\net5.0\publish\CoreWebApi.deps.json
+D:\Oki Documents\Bootcamp\Sesi13\CoreWebApi\CoreWebApi\bin\Release\net5.0\publish\CoreWebApi.runtimeconfig.json
+D:\Oki Documents\Bootcamp\Sesi13\CoreWebApi\CoreWebApi\bin\Release\net5.0\publish\CoreWebApi.pdb
+D:\Oki Documents\Bootcamp\Sesi13\CoreWebApi\CoreWebApi\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+D:\Oki Documents\Bootcamp\Sesi13\CoreWebApi\CoreWebApi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Oki Documents\Bootcamp\Sesi13\CoreWebApi\CoreWebApi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Oki Documents\Bootcamp\Sesi13\CoreWebApi\CoreWebApi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
